@@ -8,6 +8,7 @@
 -- Create the tables we will need.
 
 -- Im purposefully put a IF EXIST DROP just in case i make an error and I dont have to create a new database.
+-- I had plenty of Import and type errors. Dropping tables made is easier to fix the table
 
 Drop table IF EXISTS employees
 
@@ -68,7 +69,6 @@ CREATE TABLE "dept_man" (
 
 -- Next Step is putting the Data into the tables created. A new .sql will be created for it.
 
--- Commenting out the Alter Table Reference from https://www.quickdatabasediagrams.com sinces its not working
 
 
 ALTER TABLE "employees" ADD CONSTRAINT "fk_employees_emp_title_id" FOREIGN KEY("emp_title_id")
