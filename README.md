@@ -29,6 +29,9 @@
 ![Employee](Images/employee.png)
 
 # DATA Analysis
+* Even though it is not ask. Every Query will be counted. And the count on the readme will  
+will only be valid at the creation of the readme. Any futures modification of the tables will need 
+the code for the count to be rerun to get a more updated count. 
 
 ## Employees Hired on 1986 ASC order
 ![Hired](Images/Hired1986.png)
@@ -39,8 +42,13 @@
 ## The Departments Managers. 
 * This Data is limited because it is historical employees. It doesnt show employee status.
 ![Managers](Images/ManagersID.png)
+* There 24 Managers
 
 ## Hercules
 * There are 20 employees with First Name = Hercules, and last name begins with B
 ![Hercules](Images/hercules.png)
+
+## Sales Department Employees
+![Sales](Images/sales.png)
+-- There 52,245 employees
 
