@@ -39,8 +39,13 @@ Drop table IF EXISTS salaries
 
 CREATE TABLE "salaries" (
     "emp_no" int   NOT NULL,
-    "salary" money   NOT NULL
+    "salary" Money   NOT NULL,
+    CONSTRAINT "pk_salaries" PRIMARY KEY (
+        "emp_no"
+     )
 );
+
+
 
 Drop table IF EXISTS departments
 
@@ -88,3 +93,9 @@ REFERENCES "departments" ("dept_no");
 
 ALTER TABLE "dept_man" ADD CONSTRAINT "fk_dept_man_emp_no" FOREIGN KEY("emp_no")
 REFERENCES "employees" ("emp_no");
+
+-- ALTER TABLE "salaries" ADD CONSTRAINT "fk_emp_no" FOREIGN KEY("emp_no")
+-- REFERENCES "employees" ("emp_no");
+
+-- I originally had salaries as Money But that became an issue much later on. i tried this code but it failed. Going to study it later
+-- ALTER TABLE salaries ALTER COLUMN salary INT ;
