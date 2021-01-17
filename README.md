@@ -1,4 +1,4 @@
-### sql_challenge
+# sql_challenge
 
 
 ## QBD Images
@@ -27,7 +27,7 @@
 
 ![Employee](Images/employee.png)
 
-####  DATA Analysis
+# DATA Analysis
 
 ## Employees Hired on 1986 ASC order
 ![Hired](Images/Hired1986.png)
