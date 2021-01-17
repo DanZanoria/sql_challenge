@@ -35,3 +35,8 @@
 
 * After seeing the Data. Do a count of the employee
 * There 36,150 employees hired on the year 1986. 
+
+## The Departments Managers. 
+* This Data is limited because it is historical employees. It doesnt show employee status.
+![Managers](Images/ManagersID.png)
+
