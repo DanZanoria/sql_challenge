@@ -25,3 +25,19 @@ JOIN dept_man dm
 ON d.dept_no=dm.dept_no
 Join employees e
 On e.emp_no = dm.emp_no
+;
+
+-- List first name, last name, and sex for employees whose first name is 
+-- "Hercules" and last names begin with "B."
+
+Select  first_name, last_name, sex
+From employees 
+Where left(last_name,1) ='B' and first_name = 'Hercules'
+;
+
+-- Count Number of Employees with the parameter from above
+Select Count(*) 
+From employees 
+Where left(last_name,1) ='B' and first_name = 'Hercules'
+;
+-- There are 20 employees with First Name = Hercules, and last name begins with B

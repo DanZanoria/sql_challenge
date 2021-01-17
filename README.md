@@ -40,3 +40,7 @@
 * This Data is limited because it is historical employees. It doesnt show employee status.
 ![Managers](Images/ManagersID.png)
 
+## Hercules
+* There are 20 employees with First Name = Hercules, and last name begins with B
+![Hercules](Images/hercules.png)
+
