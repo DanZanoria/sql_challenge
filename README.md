@@ -49,6 +49,12 @@ the code for the count to be rerun to get a more updated count.
 ![Hercules](Images/hercules.png)
 
 ## Sales Department Employees
+-- There are 52,245 employees
 ![Sales](Images/sales.png)
--- There 52,245 employees
+
+## Sales and Development Department Employees
+-- There are 137,952 employees
+![Sales](Images/SandDev.png)
+
+
 
