@@ -30,7 +30,7 @@
 ###  DATA Analysis
 
 ## Employees Hired on 1986 ASC order
-![Hired](Images/Hired196.png)
+![Hired](Images/Hired1986.png)
 
 * After seeing the Data. Do a count of the employee
-* There 36,150 employees hired on the year 1986.
+* There 36,150 employees hired on the year 1986. 
