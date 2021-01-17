@@ -11,6 +11,7 @@
 
 * I like the drop tables for the sole purpose of fixing troubleshooting the table' structure quickly.
 * Drop table IF EXISTS employees
+* Sample of the Code
 
 *CREATE TABLE "employees" (
   *  "emp_no" int   NOT NULL,
@@ -22,8 +23,8 @@
     * "hire_date" DATE   NOT NULL,
     * CONSTRAINT "pk_employees" PRIMARY KEY (
         "emp_no"
-  *   )
-* );
+    )
+); *
 
 ![Employee](Images/employee.png)
 
