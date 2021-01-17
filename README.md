@@ -54,7 +54,13 @@ the code for the count to be rerun to get a more updated count.
 
 ## Sales and Development Department Employees
 -- There are 137,952 employees
-![Sales](Images/SandDev.png)
+![SalesandDev](Images/SandDev.png)
+
+## Number Employees with Shared Last Names and Frequency of Each Last name 
+* There are a total 1,638 last names being shared by all employees 
+![lastname](Images/lastname.png)
+
+
 
 
 
