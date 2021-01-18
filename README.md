@@ -60,6 +60,8 @@ the code for the count to be rerun to get a more updated count.
 * There are a total 1,638 last names being shared by all employees 
 ![lastname](Images/lastname.png)
 
+## I made an honest attempt at the bonus but i just hit a brick wall with my groupby that is preventing me from plotting. And I just cannot figure out the issue. I probably spent more time on the bonus then the primary part of the assignment.
+
 
 
 
