@@ -62,6 +62,10 @@ the code for the count to be rerun to get a more updated count.
 
 ## I made an honest attempt at the bonus but i just hit a brick wall with my groupby that is preventing me from plotting. And I just cannot figure out the issue. I probably spent more time on the bonus then the primary part of the assignment.
 
+![groupby](Images/BonusGroupbySalary.png)
+
+Not the chart but this is where i ended in the bonus
+
 
 
 
